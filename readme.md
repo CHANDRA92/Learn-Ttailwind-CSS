@@ -1,5 +1,5 @@
 # Tailwind Install guide
-[click](https://tailwindcss.com/docs/installation)
+[Click](https://tailwindcss.com/docs/installation)
 
 ## 1. Install Tailwind CSS
 Install <b>'tailwindcss'</b> via npm, and create your <b>'tailwind.config.js'</b> file.
@@ -28,7 +28,7 @@ Run the CLI tool to scan your template files for classes and build your CSS.
 ```Terminal
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 ```
-## 5. tart using Tailwind in your HTML
+## 5. Start using Tailwind in your HTML
 ```html
     <link href="./output.css" rel="stylesheet">
 ```
